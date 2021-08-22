@@ -14,6 +14,7 @@ function App() {
       <Router>
         <MainRouter/>
       </Router>
+      
       </React.Suspense>
     </div>
   );
