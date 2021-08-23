@@ -457,7 +457,7 @@ input[type="checkbox"]:checked~.checkbox {
     28% {
         text-shadow: none;
     }
-
+/* added notes */
     32% {
         text-shadow:
             0 0 2.5px #fff,
